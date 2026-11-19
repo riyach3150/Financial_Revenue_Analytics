@@ -12,12 +12,6 @@ The dashboard provides a clear visual representation of revenue performance, hel
 - Present financial data through meaningful visualizations.
 - Generate insights to support business decision-making.
 
-## Dataset
-- **File:** Financial_Revenue_Data.xlsx
-- **Records:** 1,000 (if applicable)
-- **Format:** Excel (.xlsx)
-- **Source:** Project dataset
-
 ## Tools & Technologies
 - Microsoft Excel
 - Pivot Tables
@@ -27,6 +21,10 @@ The dashboard provides a clear visual representation of revenue performance, hel
 - Data Visualization
 
 ## Dataset
+- **File:** Financial_Revenue_Data.xlsx
+- **Records:** 1,000 (if applicable)
+- **Format:** Excel (.xlsx)
+- **Source:** Project dataset
 
 [Download Financial Revenue Dataset](./Day4_Financial_Revenue_Analytics_Project_1000_records.xlsx)
 
