@@ -26,9 +26,13 @@ The dashboard provides a clear visual representation of revenue performance, hel
 - Data Analysis
 - Data Visualization
 
+## Dataset
+
+[Download Financial Revenue Dataset](./Day4_Financial_Revenue_Analytics_Project_1000_records.xlsx)
+
 ## Dashboard Preview
 
-![Financial Analytics Dashboard](./Dashboard/Financial%20Analytics%20Dashboard.jpeg)
+![Financial Analytics Dashboard](./Financial%20Analytics%20Dashboard.jpeg)
 
 ## Key Insights
 The dashboard helps analyze:
@@ -41,14 +45,10 @@ The dashboard helps analyze:
 ## Project Structure
 
 ```text
-financial-revenue-analytics/
+Financial_Revenue_Analytics/
 │
-├── Dataset/
-│   └── Day4_Financial_Revenue_Analytics_Project_1000_records.xlsx
-│
-├── Dashboard/
-│   └── Financial Analytics Dashboard.jpeg
-│
+├── Day4_Financial_Revenue_Analytics_Project_1000_records.xlsx
+├── Financial Analytics Dashboard.jpeg
 └── README.md
 ```
 
