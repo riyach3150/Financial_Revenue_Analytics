@@ -28,7 +28,7 @@ The dashboard provides a clear visual representation of revenue performance, hel
 
 ## Dashboard Preview
 
-![Financial Analytics Dashboard](Dashboard/Financial%20Analytics%20Dashboard.jpeg)
+![Financial Analytics Dashboard](./Dashboard/Financial%20Analytics%20Dashboard.jpeg)
 
 ## Key Insights
 The dashboard helps analyze:
@@ -44,10 +44,10 @@ The dashboard helps analyze:
 financial-revenue-analytics/
 │
 ├── Dataset/
-│   └── Financial_Revenue_Data.xlsx
+│   └── Day4_Financial_Revenue_Analytics_Project_1000_records.xlsx
 │
 ├── Dashboard/
-│   └── Financial_Dashboard.jpeg
+│   └── Financial Analytics Dashboard.jpeg
 │
 └── README.md
 ```
