@@ -28,7 +28,7 @@ The dashboard provides a clear visual representation of revenue performance, hel
 
 ## Dashboard Preview
 
-![Financial Revenue Analytics Dashboard](Dashboard/Financial_Dashboard.jpeg)
+![Financial Analytics Dashboard](Dashboard/Financial%20Analytics%20Dashboard.jpeg)
 
 ## Key Insights
 The dashboard helps analyze:
